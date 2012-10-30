@@ -1,0 +1,3 @@
+classed for handling money
+
+require 'realbite/commerce'

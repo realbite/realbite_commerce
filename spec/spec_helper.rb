@@ -1,0 +1,2 @@
+$:<<'lib'
+require 'realbite/commerce'
